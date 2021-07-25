@@ -1,0 +1,8 @@
+'prune_min-correct', (0, 70)
+'remainders_generator-correct', (512, 70)
+'foldr-correct', (1024, 70)
+'mapl-correct', (1536, 70)
+'CheckingAccount-correct', (2048, 70)
+'foldl-correct', (2560, 70)
+'filterl-correct', (3072, 70)
+'reverse-correct', (3584, 70)
